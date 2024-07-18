@@ -1,0 +1,29 @@
+Name- Gaurav Tarade
+Company- CODTECH IT SOLUTIONS
+ID-
+Duration- JUNE 20 2024 to JULY 2024
+Domain- Python
+Mentor- SRAVANI GOUNI
+
+Create a Synthetic Dataset:
+
+Generate a dataset with random values for X and a linear relationship for y with added noise.
+Combine X and y into a pandas DataFrame.
+
+Split the Data:
+
+Use train_test_split to divide the dataset into training (80%) and testing (20%) sets.
+
+Train the Model:
+
+Create a linear regression model using LinearRegression from scikit-learn.
+Fit the model to the training data.
+
+Evaluate the Model:
+
+Make predictions on both training and testing sets.
+Calculate and print the mean squared error (MSE) and R-squared values for both sets.
+
+Visualize the Results:
+
+Plot the regression line along with training and testing data points.
